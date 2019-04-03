@@ -1,0 +1,10 @@
+C:\Users\КуприенкоВ\Desktop\copy\FileCopy\obj\Debug\WindowsFormsApp2.exe
+C:\Users\КуприенкоВ\Desktop\copy\FileCopy\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\КуприенкоВ\Desktop\copy\FileCopy\obj\Debug\Sp1.Form1.resources
+C:\Users\КуприенкоВ\Desktop\copy\FileCopy\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\КуприенкоВ\Desktop\copy\FileCopy\obj\Debug\Sp1.csproj.GenerateResource.cache
+C:\Users\КуприенкоВ\Desktop\copy\FileCopy\obj\Debug\Sp1.csproj.CoreCompileInputs.cache
+C:\Users\КуприенкоВ\Desktop\copy\FileCopy\obj\Debug\Sp1.csprojAssemblyReference.cache
+C:\Users\КуприенкоВ\Desktop\copy\FileCopy\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\КуприенкоВ\Desktop\copy\FileCopy\bin\Debug\WindowsFormsApp2.exe
+C:\Users\КуприенкоВ\Desktop\copy\FileCopy\bin\Debug\WindowsFormsApp2.pdb
